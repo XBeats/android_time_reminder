@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">悬浮时钟</string>
+    <string name="open_text">开启浮动时钟</string>
+    <string name="close_text">关闭浮动时钟</string>
+    <string name="notification_content">点击打开悬浮时钟APP</string>
+</resources>
